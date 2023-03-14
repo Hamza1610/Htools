@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.overall {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+    height: 300px;
+    margin-top: 20vh;
+}
+.error {
+    font-size: 5rem;
+    color: crimson;
+    font-family: monospace;
+}
